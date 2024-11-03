@@ -11,9 +11,9 @@
  
  🔭 I’m currently pursuing **BCA**
  
- 🌱 I’m currently learning **React, Node.js,AWS**
+ 🌱 I’m currently learning **React, Node.js,aws**
 
-💬 Ask me about **Database, Operating System, Frontend Development ... or anything **
+💬 Ask me about **Database, Operating System, Frontend Development ... or anything**
 
 ⚡ Fun fact **Only 0.5 seconds is required to form an opinion**
 
